@@ -16,7 +16,7 @@
 
 ## Links
 
-[Main branch deployed on Heroku](https://khalidhamedi-server-deploy-prod.herokuapp.com/)
+[Main branch deployed on Heroku](https://khalidhamed-server-deploy-prod.herokuapp.com/)
 
 [Dev branch deployed on Heroku](https://khalidhamedi-server-deploy-dev.herokuapp.com/)
 
