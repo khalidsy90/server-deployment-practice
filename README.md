@@ -16,10 +16,10 @@
 
 ## Links
 
-[Main branch deployed on Heroku](https://amr-server-deploy-prod.herokuapp.com/)
+[Main branch deployed on Heroku](https://khalidhamedi-server-deploy-prod.herokuapp.com/)
 
-[Dev branch deployed on Heroku](https://amr-server-deploy-dev.herokuapp.com/)
+[Dev branch deployed on Heroku](https://khalidhamedi-server-deploy-dev.herokuapp.com/)
 
-[Pull request from dev to main](https://github.com/amr88nzzal/server-deployment-practice/pull/1)
+[Pull request from dev to main](https://github.com/khalidsy90/server-deployment-practice/pull/1)
 
-[GitHub actions](https://github.com/amr88nzzal/server-deployment-practice/actions)
+[GitHub actions](https://github.com/khalidsy90/server-deployment-practice/actions)
